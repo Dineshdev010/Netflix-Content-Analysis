@@ -8,8 +8,7 @@ strings, handling non-standard date formats, extracting numbers from mixed
 text columns, and presenting results in a visually striking dark dashboard
 that matches Netflix brand identity.
 
-**Difficulty:** Intermediate
-**Time:** 3–4 days
+
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Collections, WordCloud (optional)
 **No external dataset needed** — but swapping in the real Netflix CSV requires
 zero code changes
